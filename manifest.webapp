@@ -1,6 +1,6 @@
 {
   "name": "IMEtest",
-  "description": "IMEtest",
+  "description": "IMEtest 3rdParty test",
   "role": "keyboard",
   "launch_path": "/index.html",
   "developer": {
@@ -13,28 +13,31 @@
   "entry_points": {
     "english": {
       "launch_path": "/index.html#en",
+      "name": "english",
       "description": "English layout",
       "types": ["text", "url", "number"]
     },
     "number": {
       "launch_path": "/index.html#nm",
+      "name": "number",
       "description": "number layout",
       "types": ["number"]
     },
     "pychen": {
       "launch_path": "/index.html#pychen",
+      "name": "pychen",
       "description": "poyu layout",
       "types": ["text", "url", "number"]
     }
   },
   "locales": {
     "en-US": {
-      "name": "Keyboard 2",
-      "description": "Gaia Keyboard 2"
+      "name": "IMEtest",
+      "description": "IMEtest 3rdParty test"
     },
     "zh-TW": {
-      "name": "鍵盤2",
-      "description": "Gaia 鍵盤2"
+      "name": "鍵盤測試",
+      "description": "第三方鍵盤安裝測試"
     }
   },
   "default_locale": "en-US",

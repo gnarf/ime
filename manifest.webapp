@@ -42,7 +42,8 @@
   },
   "default_locale": "en-US",
   "icons": {
-    "60": "/ime/style/icons/camera_60.png",
-    "128": "/ime/style/icons/camera_128.png"
+    "60": "/ime/style/icons/keyboard_60.png",
+    "128": "/ime/style/icons/keyboard_128.png",
+    "128": "/ime/style/icons/keyboard_256.png"
   }
 }

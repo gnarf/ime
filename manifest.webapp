@@ -1,7 +1,7 @@
 {
   "name": "IMEtest",
   "description": "IMEtest 3rdParty test",
-  "role": "keyboard",
+  "role": "input",
   "launch_path": "/index.html",
   "developer": {
     "name": "GaryChen",

@@ -11,7 +11,7 @@
   "permissions": {
     "input": {}
   },
-  "layouts": {
+  "inputs": {
     "english": {
       "launch_path": "/index.html#en",
       "name": "english",

@@ -9,7 +9,7 @@
     "url": "https://github.com/mpizza/ime/"
   },
   "permissions": {
-    "keyboard": {}
+    "input": {}
   },
   "layouts": {
     "english": {

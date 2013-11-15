@@ -2,6 +2,7 @@
   "name": "IMEtest",
   "description": "IMEtest 3rdParty test",
   "role": "input",
+  "type": "privileged",
   "launch_path": "/index.html",
   "developer": {
     "name": "GaryChen",
@@ -10,7 +11,7 @@
   "permissions": {
     "keyboard": {}
   },
-  "entry_points": {
+  "layouts": {
     "english": {
       "launch_path": "/index.html#en",
       "name": "english",
